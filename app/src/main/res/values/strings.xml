@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen_202120010271_Ejercicio2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="btn_crear_lugar">Guardar</string>
+    <string name="btn_modificar_lugar">Guardar</string>
+    <string name="tlNombreL">Nombre Lugar</string>
+    <string name="tlNombreC">Nombre Contacto</string>
+    <string name="no_ubicacion" />
+</resources>
